@@ -63,3 +63,6 @@ target/
 
 #Mac Junk
 .DS_Store
+
+#Output Folder
+output/
